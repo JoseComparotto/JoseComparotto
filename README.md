@@ -8,9 +8,6 @@ Bem-vindo ao meu portfólio! Aqui você encontrará projetos relacionados a dese
 - **Frameworks e Bibliotecas**: .NET 8, Entity Framework Core, WPF, PdfPig  
 - **Banco de Dados**: PostgreSQL, SQL Server  
 
-## 📌 Projetos Destacados
-...
-
 ## 📖 Meu TCC
 
 Estou desenvolvendo meu Trabalho de Conclusão de Curso em Ciência da Computação com o tema:  

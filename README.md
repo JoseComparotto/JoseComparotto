@@ -1,16 +1,23 @@
-## Hi there 👋
+# José Comparotto - Portfólio
 
-<!--
-**JoseComparotto/JoseComparotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu portfólio! Aqui você encontrará projetos relacionados a desenvolvimento de software, integração de sistemas, engenharia de dados e outras áreas que me interessam.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens**: C#, SQL, Python  
+- **Frameworks e Bibliotecas**: .NET 8, Entity Framework Core, WPF, PdfPig  
+- **Banco de Dados**: PostgreSQL, SQL Server  
+
+## 📌 Projetos Destacados
+...
+
+## 📖 Meu TCC
+
+Estou desenvolvendo meu Trabalho de Conclusão de Curso em Ciência da Computação com o tema:  
+**"Arquitetura e Estratégias para Integração de Sistemas de Informação Gerenciais: Desafios e Soluções para Softwares Proprietários".**  
+O objetivo é explorar desafios e estratégias para integração de sistemas que não seguem padrões abertos.
+
+## 📫 Contato
+
+- **LinkedIn**: [linkedin.com/in/josecomparotto](https://linkedin.com/in/josecomparotto)  
+- **Email**: jose.comparotto@gmail.com

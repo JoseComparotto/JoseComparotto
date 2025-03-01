@@ -1,4 +1,4 @@
-# José Comparotto - Portfólio
+# José Comparotto
 
 Bem-vindo ao meu portfólio! Aqui você encontrará projetos relacionados a desenvolvimento de software, integração de sistemas, engenharia de dados e outras áreas que me interessam.
 

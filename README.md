@@ -4,8 +4,8 @@ Bem-vindo ao meu portfólio! Aqui você encontrará projetos relacionados a dese
 
 ## 🛠 Tecnologias e Ferramentas
 
-- **Linguagens**: C#, SQL, Python  
-- **Frameworks e Bibliotecas**: .NET 8, Entity Framework Core, WPF, PdfPig  
+- **Linguagens**: Java, C#, SQL, Python
+- **Frameworks e Bibliotecas**: Spring, .NET 8, Entity Framework Core, WPF
 - **Banco de Dados**: PostgreSQL, SQL Server  
 
 ## 📫 Contato
